@@ -1,0 +1,4 @@
+[
+  {"id":"n1","title":"Appointment confirmed","body":"Dr. Ananya Iyer • Nov 4, 10:00 AM","type":"appointment","isRead":false,"createdAt":"2026-11-02T09:00:00Z"},
+  {"id":"n2","title":"Period predicted","body":"Your next cycle is expected in 3 days.","type":"cycle","isRead":true,"createdAt":"2026-11-01T07:00:00Z"}
+]

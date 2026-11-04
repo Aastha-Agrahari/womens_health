@@ -1,0 +1,8 @@
+[
+  {
+    "id":"rx_001","doctorName":"Dr. Ananya Iyer","date":"2026-10-15",
+    "diagnosis":"Iron-deficiency anemia (mild)",
+    "medicines":[{"name":"Ferrous sulfate 200mg","dose":"1-0-0","durationDays":30,"instructions":"After breakfast"}],
+    "advice":"Repeat CBC in 4 weeks. Increase leafy greens."
+  }
+]

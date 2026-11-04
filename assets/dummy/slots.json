@@ -1,0 +1,19 @@
+{
+  "doc_001": [
+    {"id":"s1","date":"2026-11-04","start":"10:00","end":"10:20","mode":"video","available":true},
+    {"id":"s2","date":"2026-11-04","start":"10:20","end":"10:40","mode":"video","available":true},
+    {"id":"s3","date":"2026-11-04","start":"11:00","end":"11:20","mode":"in_person","available":false},
+    {"id":"s4","date":"2026-11-05","start":"16:00","end":"16:20","mode":"video","available":true},
+    {"id":"s5","date":"2026-11-05","start":"16:20","end":"16:40","mode":"in_person","available":true}
+  ],
+  "doc_002": [
+    {"id":"s6","date":"2026-11-04","start":"09:30","end":"09:50","mode":"video","available":true},
+    {"id":"s7","date":"2026-11-06","start":"14:00","end":"14:20","mode":"in_person","available":true}
+  ],
+  "doc_003": [
+    {"id":"s8","date":"2026-11-07","start":"11:00","end":"11:20","mode":"in_person","available":true}
+  ],
+  "doc_004": [
+    {"id":"s9","date":"2026-11-04","start":"18:00","end":"18:20","mode":"video","available":true}
+  ]
+}
